@@ -9,12 +9,17 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - AnimalQuiz
        - Cry
        - Dice
+       - Glow
        - L3
+       - L3Demo2
        - P8
        - P9
        - ScreenTransition
+       - scrollView
        - StackView
+       - SwiftCodePlayground
        - ToDo
+       - WarCardGame
 2. 他：
      - SwiftUI Tutorials(Apple Tutorialsによる学習)
        - Concepts
