@@ -20,7 +20,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - ToDo
        - WarCardGame
 2. 他：
-     - SwiftUI Tutorials(Apple Tutorialsによる学習)
+     - SwiftUI Tutorials(Apple Developer tutorialsによる学習)
        - Concepts
        - Lankmark
 
