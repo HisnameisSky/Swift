@@ -17,7 +17,6 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - ScreenTransition
        - scrollView
        - StackView
-       - SwiftCodePlayground
        - ToDo
        - WarCardGame
 2. 他：
