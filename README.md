@@ -7,6 +7,8 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
 1. 実験のアプリ：
      - 勉強の成果
        - AnimalQuiz
+       - CalcApp
+       - Calculator
        - Cry
        - Dice
        - Glow
@@ -17,6 +19,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - ScreenTransition
        - scrollView
        - StackView
+       - TicTacToe
        - ToDo
        - WarCardGame
 2. 他：
