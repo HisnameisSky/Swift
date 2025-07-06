@@ -19,7 +19,8 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - ScreenTransition
        - scrollView
        - StackView
-       - TicTacToe
+       - TicTacToe(📲対CPU)
+       - TicTacToe0(👥対人間の相手)
        - ToDo
        - WarCardGame
 2. 他：
