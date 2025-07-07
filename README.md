@@ -11,22 +11,14 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - Calculator
        - Cry
        - Dice
-       - Glow
-       - L3
-       - L3Demo2
-       - P8
-       - P9
-       - ScreenTransition
-       - scrollView
-       - StackView
        - TicTacToe(📲対CPU)
        - TicTacToe0(👥対人間の相手)
        - ToDo
        - WarCardGame
 2. 他：
-     - SwiftUI Tutorials(Apple Developer tutorialsによる学習)
-       - Concepts
-       - Lankmark
+     - 公式講座や試行錯誤など
+       - SwiftUI Tutorials
+       - Trials
 
 > [!IMPORTANT]
 > 使用方法に関しては→フォルダ全体もしくは一部をダウンロードして、XCodeの開発アプリを使ってフォルダを開いてiPhoneのiOSシミュレータ（模擬実験）を実行してみてください。
