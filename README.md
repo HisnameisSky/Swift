@@ -11,8 +11,10 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - Calculator
        - Cry
        - Dice
+       - Slots
        - TicTacToe(📲対CPU)
        - TicTacToe0(👥対人間の相手)
+       - TicTacToe1(📲対CPU)
        - ToDo
        - WarCardGame
 2. 📑他のフォルダ：
