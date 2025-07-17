@@ -20,7 +20,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
 2. 📑他のフォルダ：
      - SwiftUI Tutorials（Apple社の公式講座）
      - Trials（実験や試行錯誤など）
-     - 100日Swift（回答）
+     - 100日Swift（100 days of SwiftUI）
 
 > [!IMPORTANT]
 > 使用方法に関しては→フォルダ全体もしくは一部をダウンロードして、XCodeの開発アプリを使ってフォルダを開いてiPhoneのiOSシミュレータ（模擬実験）を実行してみてください。
