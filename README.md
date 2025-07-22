@@ -27,6 +27,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - GuessTheFlag
        - iExpense
        - Moonshot
+       - Navigation
        - Rock, Paper, Scissors
        - UnitConversion
        - ViewsAndModifiers
