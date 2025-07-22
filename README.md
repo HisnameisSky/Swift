@@ -25,6 +25,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - BetterRest
        - Edutaiment
        - GuessTheFlag
+       - HabitTracker
        - iExpense
        - Moonshot
        - Navigation
