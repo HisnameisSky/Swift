@@ -12,9 +12,9 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - Cry
        - Dice
        - Slots
-       - TicTacToe(📲対CPU)
-       - TicTacToe0(👥対相手)
-       - TicTacToe1(📲対CPU)
+       - TicTacToe(対CPU)
+       - TicTacToe0(対相手)
+       - TicTacToe1(対CPU)
        - ToDo
        - WarCardGame
 2. 📚他のフォルダ：
@@ -23,6 +23,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
      - 100日Swift（100 days of SwiftUI）
        - Animations
        - BetterRest
+       - CupcakeCorner
        - Edutaiment
        - GuessTheFlag
        - HabitTracker
