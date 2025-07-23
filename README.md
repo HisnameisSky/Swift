@@ -23,6 +23,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
      - 100日Swift（100 days of SwiftUI）
        - Animations
        - BetterRest
+       - Bookworm
        - CupcakeCorner
        - Edutaiment
        - GuessTheFlag
