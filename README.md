@@ -24,6 +24,7 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - Animations
        - BetterRest
        - Bookworm
+       - CoreDataProject
        - CupcakeCorner
        - Edutaiment
        - GuessTheFlag
@@ -32,10 +33,13 @@ Swiftの開発言語を勉強しつつ何らかのお試しアプリを作る事
        - Moonshot
        - Navigation
        - Rock, Paper, Scissors
+       - SwiftDataProject
        - UnitConversion
        - ViewsAndModifiers
        - WeSplit
        - WordScramble
 
 > [!IMPORTANT]
-> 使用方法に関しては→フォルダ全体もしくは一部をダウンロードして、XCodeの開発アプリを使ってフォルダを開いてiPhoneのiOSシミュレータ（模擬実験）を実行してみてください。
+> ❶使用方法に関しては→フォルダ全体もしくは一部をダウンロードして、XCodeの開発アプリを使ってフォルダを開いてiPhoneのiOSシミュレーター（模擬実験）を実行してみてください。
+> 
+> ②CoreDataで作動するアプリはApple Developerのアカウントが必須なので、模擬実験のモード（シミュレーター）でも不具合に遭う可能性があるのでご注意してください（SwiftDataをFoundationに切り替える方法があるけど時には効かない）
