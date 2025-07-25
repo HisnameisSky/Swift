@@ -19,7 +19,6 @@
        - WarCardGame
 2. 📚他のフォルダ：
      - SwiftUI Tutorials（Apple社の公式講座）
-     - Trials（実験や試行錯誤など）
      - 100日Swift（100 days of SwiftUI）
        - Animations
        - BetterRest
@@ -27,6 +26,7 @@
        - CoreDataProject
        - CupcakeCorner
        - Edutaiment
+       - FriendFace
        - GuessTheFlag
        - HabitTracker
        - iExpense
