@@ -30,6 +30,7 @@
        - GuessTheFlag
        - HabitTracker
        - iExpense
+       - Instafilter
        - Moonshot
        - Navigation
        - Rock, Paper, Scissors
