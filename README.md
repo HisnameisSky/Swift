@@ -23,6 +23,7 @@
        - Animations
        - BetterRest
        - Bookworm
+       - BucketList
        - CoreDataProject
        - CupcakeCorner
        - Edutaiment
