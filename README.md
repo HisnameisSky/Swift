@@ -20,26 +20,28 @@
 2. 📚他のフォルダ：
      - SwiftUI Tutorials（Apple社の公式講座）
      - 100日Swift（100 days of SwiftUI）
-       - Animations
-       - BetterRest
-       - Bookworm
-       - BucketList
-       - CoreDataProject
-       - CupcakeCorner
-       - Edutaiment
-       - FriendFace
-       - GuessTheFlag
-       - HabitTracker
-       - iExpense
-       - Instafilter
-       - Moonshot
-       - Navigation
-       - Rock, Paper, Scissors
-       - SwiftDataProject
-       - UnitConversion
-       - ViewsAndModifiers
-       - WeSplit
-       - WordScramble
+       - AccessibilitySandbox Project 15
+       - Animations |Project 6
+       - BetterRest |Project 4
+       - Bookworm |Project 11
+       - BucketList |Project 14
+       - CoreDataProject |Project 12
+       - CupcakeCorner |Project 10
+       - Edutaiment |Cahllenge 2
+       - FriendFace |Milestone 3
+       - GuessTheFlag |Project 2
+       - HabitTracker |Milestone 2
+       - iExpense |Project 7
+       - Instafilter |Project 13
+       - Moonshot |Project 8
+       - Navigation |Project 9
+       - RememberThem |Milestone 4
+       - Rock, Paper, Scissors |Milestone 1
+       - SwiftDataProject |Project 12
+       - UnitConversion |Challenge 1
+       - ViewsAndModifiers |Project 3
+       - WeSplit |Project 1
+       - WordScramble |Project 5
 
 > [!IMPORTANT]
 > ❶使用方法に関しては→フォルダ全体もしくは一部をダウンロードして、XCodeの開発アプリを使ってフォルダを開いてiPhoneのiOSシミュレーター（模擬実験）を実行してみてください。
