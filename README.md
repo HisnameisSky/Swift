@@ -28,6 +28,7 @@
        - CoreDataProject |Project 12
        - CupcakeCorner |Project 10
        - Edutaiment |Challenge 2
+       - Flashzilla |Project 17
        - FriendFace |Milestone 3
        - GuessTheFlag |Project 2
        - HabitTracker |Milestone 2
