@@ -27,7 +27,7 @@
        - BucketList |Project 14
        - CoreDataProject |Project 12
        - CupcakeCorner |Project 10
-       - Edutaiment |Cahllenge 2
+       - Edutaiment |Challenge 2
        - FriendFace |Milestone 3
        - GuessTheFlag |Project 2
        - HabitTracker |Milestone 2
