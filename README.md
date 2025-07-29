@@ -31,6 +31,7 @@
        - FriendFace |Milestone 3
        - GuessTheFlag |Project 2
        - HabitTracker |Milestone 2
+       - HotProspects |Project 16
        - iExpense |Project 7
        - Instafilter |Project 13
        - Moonshot |Project 8
