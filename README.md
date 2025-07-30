@@ -18,7 +18,6 @@
        - ToDo
        - WarCardGame
 2. 📚他のフォルダ：
-     - SwiftUI Tutorials（Apple社の公式講座）
      - 100日Swift（100 days of SwiftUI）
        - AccessibilitySandbox Project 15
        - Animations |Project 6
