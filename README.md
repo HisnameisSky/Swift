@@ -27,6 +27,7 @@
        - BucketList |Project 14
        - CoreDataProject |Project 12
        - CupcakeCorner |Project 10
+       - Dice |Milestone 5
        - Edutaiment |Challenge 2
        - Flashzilla |Project 17
        - FriendFace |Milestone 3
@@ -35,6 +36,7 @@
        - HotProspects |Project 16
        - iExpense |Project 7
        - Instafilter |Project 13
+       - LayoutAndGeometry |Project 18
        - Moonshot |Project 8
        - Navigation |Project 9
        - RememberThem |Milestone 4
