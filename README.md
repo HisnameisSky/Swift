@@ -40,6 +40,7 @@
        - Navigation |Project 9
        - RememberThem |Milestone 4
        - Rock, Paper, Scissors |Milestone 1
+       - SnowSeeker |Project 19
        - SwiftDataProject |Project 12
        - UnitConversion |Challenge 1
        - ViewsAndModifiers |Project 3
