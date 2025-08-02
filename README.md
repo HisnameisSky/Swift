@@ -27,6 +27,7 @@
        - CoreDataProject |Project 12
        - CupcakeCorner |Project 10
        - Dice |Milestone 5
+       - Drawing |Project 20
        - Edutaiment |Challenge 2
        - Flashzilla |Project 17
        - FriendFace |Milestone 3
