@@ -11,6 +11,7 @@
        - Calculator
        - Cry
        - Dice
+       - iDine
        - Slots
        - TicTacToe(対CPU)
        - TicTacToe0(対相手)
