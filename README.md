@@ -13,6 +13,7 @@
        - Dice
        - iDine
        - Slots
+       - Ratios
        - TicTacToe(対CPU)
        - TicTacToe0(対相手)
        - TicTacToe1(対CPU)
