@@ -14,6 +14,7 @@
        - iDine
        - Slots
        - Ratios
+       - Instagram_SwiftUI
        - TicTacToe(対CPU)
        - TicTacToe0(対相手)
        - TicTacToe1(対CPU)
