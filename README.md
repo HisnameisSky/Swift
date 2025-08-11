@@ -12,6 +12,7 @@
        - Cry
        - Dice
        - iDine
+       - forms
        - Slots
        - Ratios
        - Instagram_SwiftUI
