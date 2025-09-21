@@ -21,6 +21,7 @@
        - TicTacToe1(対CPU)
        - ToDo
        - WarCardGame
+       - そのほか・・
 2. 📚他のフォルダ：
      - 100日Swift（100 days of SwiftUI）
        - AccessibilitySandbox Project 15
